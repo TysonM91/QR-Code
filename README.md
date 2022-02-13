@@ -1,2 +1,3 @@
 # QR-Code
-Practice
+Practice<br>
+https://tysonm91.github.io/QR-Code/
