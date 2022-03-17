@@ -1,1 +1,1 @@
-https://tysonm91.github.io/QR-Code/
+https://tysonm91.github.io/Qr-Code/
